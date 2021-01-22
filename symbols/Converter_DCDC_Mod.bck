@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DD4012SA
+D 1A DC 5-40V to xV Regulator DC-DC Step-Down Buck Converter Module Board
+K DD4012SA-3, DD4012SA-3.3, DD4012SA-5, DD4012SA-12
+$ENDCMP
+#
+$CMP HW-613
+D DC/DC Adjustable Step-Down Regulator
+$ENDCMP
+#
+#End Doc Library
