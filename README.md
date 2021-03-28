@@ -14,8 +14,17 @@ Footprint|[dchisholm](https://forum.kicad.info/t/help-with-importing-arduino-pro
 Object|Credits|Remarks
 --- | --- | ---
 Symbols|---|---
-Footprint|---|Added 3D model to copy from KiCad
+Footprint|---|3D model added
 3D|[Jon Gordon](https://grabcad.com/library/rfm95-lora-radio-module-1)|No changes
+
+## SMA/uFA Connector
+
+Object|Credits|Remarks
+--- | --- | ---
+Symbols|---|---
+Footprint|[Foalyy](https://github.com/Foalyy/silver-kicad)|---
+3D|[Foalyy](https://github.com/Foalyy/silver-kicad)|---
+
 
 
 ## DD4012SA
