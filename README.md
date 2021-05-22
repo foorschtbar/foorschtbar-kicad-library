@@ -1,6 +1,14 @@
 # foorschtbar's kicad-library
 My personal library of KiCad schematic symbols, footprints and 3D models.
 
+## Mouse Bite's
+
+Object|Credits|Remarks
+--- | --- | ---
+Mouse Bite 1 mm Slot|[Panelization.pretty](https://github.com/madworm/Panelization.pretty)|No changes
+Mouse Bite 2.54 mm Slot|[Panelization.pretty](https://github.com/madworm/Panelization.pretty)|No changes
+Mouse Bite 2 mm Slot|[Panelization.pretty](https://github.com/madworm/Panelization.pretty)|No changes
+
 ## Arduino Pro Mini
 
 Object|Credits|Remarks
@@ -24,8 +32,6 @@ Object|Credits|Remarks
 Symbols|---|---
 Footprint|[Foalyy](https://github.com/Foalyy/silver-kicad)|---
 3D|[Foalyy](https://github.com/Foalyy/silver-kicad)|---
-
-
 
 ## DD4012SA
 
