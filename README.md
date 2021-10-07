@@ -1,6 +1,13 @@
 # foorschtbar's kicad-library
 My personal library of KiCad schematic symbols, footprints and 3D models.
 
+## Holes
+
+Object|Credits|Remarks
+--- | --- | ---
+Holes 1x05 P2.54mm|[KiCad 3D Model Library - Connector_PinHeader_2.54mm](https://kicad.github.io/packages3d/Connector_PinHeader_2.54mm)|Removed Pins
+Holes 1x08 P2.54mm|[KiCad 3D Model Library - Connector_PinHeader_2.54mm](https://kicad.github.io/packages3d/Connector_PinHeader_2.54mm)|Removed Pins
+
 ## Mouse Bite's
 
 Object|Credits|Remarks
